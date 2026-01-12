@@ -25,7 +25,7 @@ Get up and running in 30 seconds:
 
 ```bash
 # Clone the repo
-git clone [https://github.com/yourusername/agentwatch.git](https://github.com/yourusername/agentwatch.git)
+git clone [https://github.com/Tarunjit45/agentwatch.git](https://github.com/Tarunjit45/agentwatch.git)
 cd agentwatch
 
 # Setup environment
