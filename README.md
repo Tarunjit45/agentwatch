@@ -10,7 +10,6 @@
 
 ### 📺 See it in action
 ![AgentWatch Demo](https://github.com/user-attachments/assets/e315d8e6-e0e7-40b4-b841-be2d534e071b) 
-*(Instruction: Record your screen with the Windows Snipping Tool, save as MP4, and upload it to [ezgif.com](https://ezgif.com) to convert it to a high-quality GIF)*
 
 ---
 
